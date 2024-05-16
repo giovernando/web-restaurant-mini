@@ -1,4 +1,4 @@
-# Template HTML - Recipe Blog
+# HTML - Recipe Blog
 
 ## Screenshot
 
